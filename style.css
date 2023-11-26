@@ -1,0 +1,140 @@
+#topic-name {
+    margin-top: 2rem;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+  }
+
+  .panel{
+    padding: 20px 200px;
+    border-radius: 10px;
+    background-color: rgb(230, 221, 221);
+  }
+
+  .control{
+    margin-top: 10px;
+    padding: 10px 76px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    background-color: rgb(230, 221, 221);
+  }
+  #Sname{
+    height: 30px;
+    width: 100px;
+    margin-left: 52px;
+    margin-right: 3px;
+  }
+
+  form{
+    margin: 30px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  .data{
+    margin-top: 10px;
+    padding: 0px 180px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    background-color: rgb(230, 221, 221);
+  }
+
+  .voltage{
+    margin-bottom: 10px;
+  }
+  #Vname{
+    height: 20px;
+    width: 150px;
+    margin-left: 50px;
+  }
+  .current{
+    margin-bottom: 10px;
+  }
+  #Cname{
+    height: 20px;
+    width: 150px;
+    margin-left: 50px;
+  }
+  .pf{
+    margin-bottom: 10px;
+  }
+  #Pname{
+    height: 20px;
+    width: 150px;
+    margin-left: 80px;
+  }
+  .energy{
+    margin-bottom: 10px;
+  }
+  #Ename{
+    height: 20px;
+    width: 150px;
+    margin-left: 52px;
+  }
+  
+  #topic-name h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #topic-name .buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  
+  #topic-name button {
+    padding: 1rem 2rem;
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+    cursor: pointer;
+  }
+
+  .buttons button {
+    margin-left: 5rem;
+    margin-right: 5rem;
+  }
+  
+  #start-button {
+    background-color: green;
+    color: white;
+  }
+  
+  #stop-button {
+    background-color: red;
+    color: white;
+  }
+  
+  #new-topic {
+    margin-top: 1rem;
+  }
+  
+  #new-topic h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  #new-topic input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+  }
+  
+  #box {
+    margin-top: 1rem;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+  }
+  
+  #value-display {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
